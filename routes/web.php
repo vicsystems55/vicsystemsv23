@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\PageController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -16,3 +17,15 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+
+Route::get('/index', [PageController::class, 'index']);
+
+Route::get('/about-us', [PageController::class, 'index']);
+
+Route::get('/contact-us', [PageController::class, 'index']);
+
+Route::get('/services', [PageController::class, 'index']);
+
+Route::get('/request-quote', [PageController::class, 'index']);
+
