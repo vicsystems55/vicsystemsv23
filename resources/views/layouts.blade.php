@@ -212,7 +212,7 @@
 
             <!-- Start of Quality  section
                 ============================================= -->
-                <section id="bi-quality" class="bi-quality-section">
+                <section id="bi-quality" class="bi-quality-section d-none">
                     <div class="container">
                         <div class="bi-quality-content dark-bg-title">
                             <div class="row">
@@ -270,7 +270,7 @@
 
             <!-- Start of Key Feature section
                 ============================================= -->
-                <section id="bi-key-feature" class="bi-key-feature-section position-relative d-none">
+                <section id="bi-key-feature" class="bi-key-feature-section position-relative ">
                     <span class="bi-side-shape shape_1 position-absolute"><img src="assets/img/bg/shape_1.png" alt=""></span>
                     <div class="container">
                         <div class="bi-key-feature-content">
@@ -349,6 +349,86 @@
                     </div>
                 </section>
             <!-- End of Key Feature section
+                ============================================= -->
+
+                <!-- Start of About section
+	        ============================================= -->
+                <section id="bi-about-3" class="bi-about-section-3 position-relative">
+                    <span class="bi-shape-anim anim_1 position-absolute"><img src="assets/img/icon/is5.png" alt=""></span>
+                    <span class="bi-shape-anim anim_2 position-absolute" data-parallax='{"y" : -60, "rotateY":800}'><img src="assets/img/icon/is6.png" alt=""></span>
+                    <span class="bi-shape-anim anim_3 position-absolute" data-parallax='{"y" : 60, "rotateY": -800}'><img src="assets/img/icon/is7.png" alt=""></span>
+                    <div class="container">
+                        <div class="bi-about-content-3">
+                            <div class="row">
+                                <div class="col-lg-5">
+                                    <div class="bi-about-text-area-3">
+                                        <div class="bi-section-title-3 headline pera-content">
+                                            <div class="bi-subtitle text-uppercase wow fadeInRight"  data-wow-delay="200ms" data-wow-duration="1000ms">
+                                                WHAT WE OFFER
+                                            </div>
+                                            <h2 class="tx-split-text split-in-right">We  Providing  Best Designs Solution in City</h2>
+                                            <div class="bins-text">
+                                                <p>
+                                                    In nec libero luctus, aliquet turpis at, vehicula nisi. Cras eget mauris in nisl tempus lobortis. Nunc in nisi sapien aliquet. Suspendisse pharetra porta. Sed quam elit, lacinia vitae mi quis,  imperdiet dolor.
+                                                </p>
+                                            </div>
+                                        </div>
+                                        <div class="bi-abut-feature-list ul-li wow fadeInUp"  data-wow-delay="300ms" data-wow-duration="1000ms">
+                                            <ul>
+                                                <li><i class="fal fa-users"></i> Dedicated Team</li>
+                                                <li><i class="fal fa-cogs"></i> Clean Setup</li>
+                                                <li><i class="fal fa-user-headset"></i> 24/7  Support</li>
+                                                <li><i class="fal fa-award"></i> Winning Award</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-7">
+                                    <div class="bi-about-img-3  position-relative">
+                                        <div class="about-img bi-img-animation">
+                                            <img src="assets/img/about/ab5.jpg" alt="">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="bi-about-video-play-area position-relative">
+                            <div class="bi-about-exp-area position-absolute headline text-center wow zoomIn"  data-wow-delay="500ms" data-wow-duration="1500ms" data-background="assets/img/bg/exp-bg.png">
+                                <h3>20</h3>
+                                <span>Year Of Working
+                                Experiance</span>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-6">
+                                    <div class="bi-about-video-play position-relative  bi-img-animation">
+                                        <div class="video-play-btn position-absolute">
+                                            <a class="video_box justify-content-center  align-items-center d-flex" href="https://www.youtube.com/watch?v=Nv7RgGpu6ME"><i class="fas fa-play"></i></a>
+                                            <span class="video_btn_border border_wrap-1"></span>
+                                            <span class="video_btn_border border_wrap-2"></span>
+                                            <span class="video_btn_border border_wrap-3"></span>
+                                        </div>
+                                        <div class="video-play-img">
+                                            <img src="assets/img/about/ab6.jpg" alt="">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <div class="bi-about-text-quote-area bins-text headline pera-content">
+                                        <p>“Cras eget mauris in nisl tempus lobortis. Nunc in nisi sapien  ullamcorper imperdiet dolor. Suspendisse et finibus dolor et pharetra porta. Sed quam elit, lacinia vitae mi quis, ullamcorper imperdiet dolor” </p>
+                                        <div class="quote-author text-uppercase wow fadeInUp"  data-wow-delay="300ms" data-wow-duration="1500ms">
+                                            <h3>Kristin Watson</h3>
+                                            <span>CEO OF (ZLITEMES)</span>
+                                        </div>
+                                        <div class="bi-btn-3 text-uppercase wow fadeInUp"  data-wow-delay="400ms" data-wow-duration="1500ms">
+                                            <a href="about.html">Learn More <img src="assets/img/icon/arrow.svg" alt=""></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            <!-- End of About section
                 ============================================= -->
 
 
