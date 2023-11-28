@@ -21,11 +21,13 @@ Route::get('/', function () {
 
 Route::get('/index', [PageController::class, 'index']);
 
-Route::get('/about-us', [PageController::class, 'index']);
+Route::get('/about-us', [PageController::class, 'about_us'])->name('about-us');
 
-Route::get('/contact-us', [PageController::class, 'index']);
+Route::get('/contact-us', [PageController::class, 'index'])->name('contact-us');
 
-Route::get('/services', [PageController::class, 'index']);
+Route::get('/services', [PageController::class, 'services'])->name('services');
 
-Route::get('/request-quote', [PageController::class, 'index']);
+Route::get('/portfolio', [PageController::class, 'portfolio'])->name('portfolio');
+
+Route::get('/request-quote', [PageController::class, 'index'])->name('request-quote');
 
