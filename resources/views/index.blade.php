@@ -13,15 +13,14 @@
                 <span class="bi-banner-img position-absolute scene banner_img_5  wow zoomIn"  data-wow-delay="800ms" data-wow-duration="2000ms"><img class="layer" data-depth="-0.9" src="{{asset('/')}}assets/img/slider/bn5.png" alt=""></span> --}}
                 <div style="padding-bottom: 20px;" class="bi-banner-text headline text-center pera-content">
                     <div class="banner-subtitle text-uppercase wow fadeInUp"  data-wow-delay="0ms" data-wow-duration="1000ms">
-                        Welcome Creative Agency
+                        Welcome VicSystems Technologies Ltd.
                     </div>
-                    <h1 class="headline-title">Generation
-                    Digital Agency.</h1>
+                    <h1 class="headline-title">Developing Functionalities</h1>
                     <div class="bins-text">
-                        <p>We believe that great design should not be out of reach, so our services are less than half the price of a full-time designer.</p>
+                        <p>We take great pride in not just building systems, but building systems that work, are scalable and maintainable</p>
                     </div>
                     <div class="bi-btn-2  bi-btn-area text-uppercase wow fadeInUp"  data-wow-delay="400ms" data-wow-duration="1500ms">
-                        <a class="bi-btn-main  bi-btn-hover bi-btn-item" href="contact.html">  <span></span> Request a Quote</a>
+                        <a class="bi-btn-main  bi-btn-hover bi-btn-item" href="contact">  <span></span> Request a Quote</a>
                     </div>
                 </div>
             </div>
@@ -96,7 +95,7 @@
                         <div class="col-lg-6">
                             <div class="bi-section-title-1 headline pera-content">
                                 <div class="bi-subtitle text-uppercase wow fadeInRight"  data-wow-delay="200ms" data-wow-duration="1000ms">
-                                    Welcome Creative Agency
+                                    Welcome to VicSystems Technologies Ltd.
                                 </div>
                                 <h2 class="tx-split-text split-in-right">Driven by Quality
                                 & Dedicated</h2>
@@ -117,7 +116,7 @@
                                         <img src="{{asset('/')}}assets/img/icon/ic1.png" alt="">
                                     </div>
                                     <div class="feature-text headline">
-                                        <h3><a href="service-single.html">Branding & Art</a></h3>
+                                        <h3><a href="service-single">Branding & Art</a></h3>
                                     </div>
                                 </div>
                                 <div class="bi-quality-feature-item position-relative d-flex align-items-center wow fadeInUp"  data-wow-delay="400ms" data-wow-duration="1000ms">
@@ -125,7 +124,7 @@
                                         <img src="{{asset('/')}}assets/img/icon/ic2.png" alt="">
                                     </div>
                                     <div class="feature-text headline">
-                                        <h3><a href="service-single.html">Design & Development</a></h3>
+                                        <h3><a href="service-single">Design & Development</a></h3>
                                     </div>
                                 </div>
                                 <div class="bi-quality-feature-item position-relative d-flex align-items-center wow fadeInUp"  data-wow-delay="500ms" data-wow-duration="1000ms">
@@ -133,7 +132,7 @@
                                         <img src="{{asset('/')}}assets/img/icon/ic3.png" alt="">
                                     </div>
                                     <div class="feature-text headline">
-                                        <h3><a href="service-single.html">3d Animation </a></h3>
+                                        <h3><a href="service-single">3d Animation </a></h3>
                                     </div>
                                 </div>
                             </div>
@@ -156,14 +155,14 @@
                             <div class="bi-key-feature-title-text  dark-bg-title">
                                 <div class="bi-section-title-2 headline">
                                     <div class="bi-subtitle text-uppercase wow fadeInRight"  data-wow-delay="200ms" data-wow-duration="1000ms">
-                                        Welcome Creative Agency
+                                        Welcome to VicSystems Technologies Ltd.
                                     </div>
-                                    <h2 class="headline-title">We Are Fantasy
-                                        <span>We've Got you</span>
-                                    Covered on</h2>
+                                    <h2 class="headline-title">We Are Pasionate <br>
+                                        <span>Experienced <br></span>
+                                    We've Got You Covered</h2>
                                 </div>
                                 <div class="bi-btn-2  bi-btn-area text-uppercase wow fadeInRight"  data-wow-delay="400ms" data-wow-duration="1500ms">
-                                    <a class="bi-btn-main  bi-btn-hover bi-btn-item" href="about.html">  <span></span>About Company</a>
+                                    <a class="bi-btn-main  bi-btn-hover bi-btn-item" href="about">  <span></span>About Company</a>
                                 </div>
                             </div>
                         </div>
@@ -182,14 +181,13 @@
                                             </div>
                                             <div class="bi-key-feature-text headline pera-content">
                                                 <h3><a href="#">Product Design</a></h3>
-                                                <p>Every product must make a  ready to create it with help
-                                                holistic approach to design.</p>
+                                                <p>As a team, we create seamless software experiences for user satisfaction.</p>
                                             </div>
                                             <div class="bi-key-feature-list ul-li-block">
                                                 <ul>
                                                     <li>Hi-Fidelity Wireframe</li>
-                                                    <li>Architecture (IA)</li>
-                                                    <li>iOS App Development</li>
+                                                    <li>AI Integration</li>
+                                                    <li>UI/UX</li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -206,18 +204,20 @@
                                             </div>
                                             <div class="bi-key-feature-text headline pera-content">
                                                 <h3><a href="#">Development</a></h3>
-                                                <p>Every product must make a  ready to create it with help
-                                                holistic approach to design.</p>
+                                                <p>We code seamless software experiences for user satisfaction.</p>
                                             </div>
                                             <div class="bi-key-feature-list ul-li-block">
                                                 <ul>
-                                                    <li>Front End ( HTML, CSS )</li>
-                                                    <li>Android (Kotlin, Flutter)</li>
+                                                    <li>Front End ( React, Vue, HTML, CSS, Javascript )</li>
+                                                    <li>Mobile Apps (Android, iOS)</li>
                                                     <li>Post Delivery Support</li>
                                                 </ul>
                                             </div>
                                         </div>
                                     </div>
+
+                                </div>
+
                                 </div>
                             </div>
                         </div>
@@ -243,10 +243,10 @@
                                     <div class="bi-subtitle text-uppercase wow fadeInRight"  data-wow-delay="200ms" data-wow-duration="1000ms">
                                         WHAT WE OFFER
                                     </div>
-                                    <h2 class="tx-split-text split-in-right">We  Providing  Best Designs Solution in City</h2>
+                                    <h2 class="tx-split-text split-in-right">Providing digital solutions fit for our clients needs</h2>
                                     <div class="bins-text">
                                         <p>
-                                            In nec libero luctus, aliquet turpis at, vehicula nisi. Cras eget mauris in nisl tempus lobortis. Nunc in nisi sapien aliquet. Suspendisse pharetra porta. Sed quam elit, lacinia vitae mi quis,  imperdiet dolor.
+                                            We work to ensure our clients receive value for their money. Harnessing digital tools to achieve desired results.
                                         </p>
                                     </div>
                                 </div>
@@ -291,13 +291,13 @@
                         </div>
                         <div class="col-lg-6">
                             <div class="bi-about-text-quote-area bins-text headline pera-content">
-                                <p>“Cras eget mauris in nisl tempus lobortis. Nunc in nisi sapien  ullamcorper imperdiet dolor. Suspendisse et finibus dolor et pharetra porta. Sed quam elit, lacinia vitae mi quis, ullamcorper imperdiet dolor” </p>
+                                <p>“Collaborating with VicSystems is consistently invigorating; their creativity is boundless, continually motivating us to reach our envisioned objectives. Mr. Victor, an innovator at heart, consistently endeavors to explore new horizons of creativity” </p>
                                 <div class="quote-author text-uppercase wow fadeInUp"  data-wow-delay="300ms" data-wow-duration="1500ms">
                                     <h3>Kristin Watson</h3>
                                     <span>CEO OF (ZLITEMES)</span>
                                 </div>
                                 <div class="bi-btn-3 text-uppercase wow fadeInUp"  data-wow-delay="400ms" data-wow-duration="1500ms">
-                                    <a href="about.html">Learn More <img src="{{asset('/')}}assets/img/icon/arrow.svg" alt=""></a>
+                                    <a href="about">Learn More <img src="{{asset('/')}}assets/img/icon/arrow.svg" alt=""></a>
                                 </div>
                             </div>
                         </div>
@@ -316,7 +316,7 @@
             <div class="container">
                 <div class="bi-section-title-2 text-center  headline">
                     <div class="bi-subtitle text-uppercase wow fadeInRight"  data-wow-delay="200ms" data-wow-duration="1500ms">
-                        Welcome Creative Agency
+                        Welcome to VicSystems Technologies Ltd.
                     </div>
                     <h2 class="headline-title">Affordable
                         <span>Pricing Plan</span>
@@ -341,7 +341,7 @@
                                     </ul>
                                 </div>
                                 <div class="bi-btn-2  bi-btn-area  text-uppercase">
-                                    <a class="bi-btn-main  bi-btn-hover bi-btn-item" href="contact.html">  <span></span>Hire Us now</a>
+                                    <a class="bi-btn-main  bi-btn-hover bi-btn-item" href="contact">  <span></span>Hire Us now</a>
                                 </div>
                             </div>
                         </div>
@@ -362,7 +362,7 @@
                                     </ul>
                                 </div>
                                 <div class="bi-btn-2  bi-btn-area  text-uppercase">
-                                    <a class="bi-btn-main  bi-btn-hover bi-btn-item" href="contact.html">  <span></span>Hire Us now</a>
+                                    <a class="bi-btn-main  bi-btn-hover bi-btn-item" href="contact">  <span></span>Hire Us now</a>
                                 </div>
                             </div>
                         </div>
@@ -382,7 +382,7 @@
                             <div class="bi-consult-cta-text-area">
                                 <div class="bi-section-title-2 headline pera-content">
                                     <div class="bi-subtitle text-uppercase wow fadeInRight"  data-wow-delay="200ms" data-wow-duration="1000ms">
-                                        Welcome Creative Agency
+                                        Welcome to VicSystems Technologies Ltd.
                                     </div>
                                     <h2 class="tx-split-text split-in-right">
                                         <span>Best Consultant  </span>
@@ -531,8 +531,8 @@
                                     </div>
                                 </div>
                                 <div class="bi-team-text headline">
-                                    <h3><a href="team-single.html">Alex milon</a></h3>
-                                    <span> Stock Developer</span>
+                                    <h3><a href="team-single">Asuquo Victor</a></h3>
+                                    <span> CTO</span>
                                 </div>
                                 <div class="bi-team-social ul-li">
                                     <ul>
@@ -554,7 +554,7 @@
                                     </div>
                                 </div>
                                 <div class="bi-team-text headline">
-                                    <h3><a href="team-single.html">Robert jonson</a></h3>
+                                    <h3><a href="team-single">Robert jonson</a></h3>
                                     <span> Stock Developer</span>
                                 </div>
                                 <div class="bi-team-social ul-li">
@@ -577,7 +577,7 @@
                                     </div>
                                 </div>
                                 <div class="bi-team-text headline">
-                                    <h3><a href="team-single.html">Richerd william</a></h3>
+                                    <h3><a href="team-single">Richerd william</a></h3>
                                     <span> Stock Developer</span>
                                 </div>
                                 <div class="bi-team-social ul-li">
@@ -793,7 +793,7 @@
                         <h2 class="tx-split-text split-in-right">Read Our Recent News Get Every Update</h2>
                     </div>
                     <div class="bi-btn-4 text-uppercase wow fadeInRight"  data-wow-delay="200ms" data-wow-duration="1000ms">
-                        <a href="blog-2.html">Learn more <span class="d-flex justify-content-center align-items-center"><img src="{{asset('/')}}assets/img/icon/arrow.svg" alt=""></span></a>
+                        <a href="blog-2">Learn more <span class="d-flex justify-content-center align-items-center"><img src="{{asset('/')}}assets/img/icon/arrow.svg" alt=""></span></a>
                     </div>
                 </div>
                 <div class="bi-blog-top-content">
@@ -805,7 +805,7 @@
                                     <span class="blog-meta position-absolute"><a href="#">18 April, 2023</a></span>
                                 </div>
                                 <div class="blog-text headline pera-content">
-                                    <h3><a href="blog-single.html">Basic Rule of Running Web</a></h3>
+                                    <h3><a href="blog-single">Basic Rule of Running Web</a></h3>
                                     <p>Fusce sit amet semper velit. Ut fringilla nunc a maximus interdum. Cras pharetra scelerisque sem commodo aliquet.</p>
                                 </div>
                                 <div class="blog-author-more d-flex justify-content-between align-items-center">
@@ -818,7 +818,7 @@
                                         </div>
                                     </div>
                                     <div class="blog-more text-uppercase">
-                                        <a href="blog-single.html">Read More <i class="fas fa-long-arrow-right"></i></a>
+                                        <a href="blog-single">Read More <i class="fas fa-long-arrow-right"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -830,7 +830,7 @@
                                     <span class="blog-meta position-absolute"><a href="#">18 April, 2023</a></span>
                                 </div>
                                 <div class="blog-text headline pera-content">
-                                    <h3><a href="blog-single.html">UX Checklists for UI Desin</a></h3>
+                                    <h3><a href="blog-single">UX Checklists for UI Desin</a></h3>
                                     <p>Fusce sit amet semper velit. Ut fringilla nunc a maximus interdum. Cras pharetra scelerisque sem commodo aliquet.</p>
                                 </div>
                                 <div class="blog-author-more d-flex justify-content-between align-items-center">
@@ -843,7 +843,7 @@
                                         </div>
                                     </div>
                                     <div class="blog-more text-uppercase">
-                                        <a href="blog-single.html">Read More <i class="fas fa-long-arrow-right"></i></a>
+                                        <a href="blog-single">Read More <i class="fas fa-long-arrow-right"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -855,7 +855,7 @@
                                     <span class="blog-meta position-absolute"><a href="#">18 April, 2023</a></span>
                                 </div>
                                 <div class="blog-text headline pera-content">
-                                    <h3><a href="blog-single.html">A Designers UI/UX Comple</a></h3>
+                                    <h3><a href="blog-single">A Designers UI/UX Comple</a></h3>
                                     <p>Fusce sit amet semper velit. Ut fringilla nunc a maximus interdum. Cras pharetra scelerisque sem commodo aliquet.</p>
                                 </div>
                                 <div class="blog-author-more d-flex justify-content-between align-items-center">
@@ -868,7 +868,7 @@
                                         </div>
                                     </div>
                                     <div class="blog-more text-uppercase">
-                                        <a href="blog-single.html">Read More <i class="fas fa-long-arrow-right"></i></a>
+                                        <a href="blog-single">Read More <i class="fas fa-long-arrow-right"></i></a>
                                     </div>
                                 </div>
                             </div>

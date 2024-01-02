@@ -27,7 +27,7 @@
                     </div>
                     <div class="inner-text">
                         <span>Give us a call</span>
-                        <a href="#">+80 3783 5670</a>
+                        <a href="#">+234 80 3783 5670</a>
                     </div>
                 </div>
                 <div class="cta-btn-area">
