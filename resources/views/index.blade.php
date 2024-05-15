@@ -485,7 +485,7 @@
 
         Start of Consult Cta section
         ============================================= -->
-        <section id="bi-consult-cta" class="bi-consult-cta-section position-relative" data-background="assets/img/bg/consult-bg.jpg">
+        <section id="bi-consult-cta" class="d-none bi-consult-cta-section position-relative" data-background="assets/img/bg/consult-bg.jpg">
             <div class="container">
                 <div class="bi-consult-cta-content">
                     <div class="row align-items-end">
@@ -708,39 +708,7 @@
     <!-- End of team  section
         ============================================= -->
 
-    <!-- Start Counter section
-        ============================================= -->
-        <section id="bi-counter-3" class="bi-counter-section-3">
-            <div class="container">
-                <div class="bi-counter-content-2">
-                    <div class="row justify-content-center">
-                        <div class="col-lg-4 col-md-6">
-                            <div class="bi-counter-item-3 position-relative headline pera-content d-flex align-items-center justify-content-between">
-                                <h3><span class="counter">10</span>x</h3>
-                                <p>Traffic
-                                Multiplied</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6">
-                            <div class="bi-counter-item-3 position-relative headline pera-content d-flex align-items-center justify-content-between">
-                                <h3><span class="counter">41</span>k</h3>
-                                <p>AI
-                                Content File</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6">
-                            <div class="bi-counter-item-3 position-relative headline pera-content d-flex align-items-center justify-content-between">
-                                <h3><span class="counter">3</span>k+</h3>
-                                <p>Studios
-                                ToUpdate</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-    <!-- End of Counter section
-        ============================================= -->
+
 
     <!-- Start Testimonial section
         ============================================= -->
@@ -792,12 +760,11 @@
                                                     <img src="{{asset('/')}}assets/img/icon/qt.png" alt="">
                                                 </div>
                                                 <div class="testimonial-desc">
-                                                    Since 1985 Reed has pioneered specialist recruitment Sourcing knowledgeable,
-                                                    skilled professionals pioneered Specialist recruitment, sourcing.
+                                                    Vicsystems Technologies Ltd. transformed our digital presence beyond our expectations. Their innovative solutions and proactive approach helped us achieve remarkable results.
                                                 </div>
                                                 <div class="testimonial-author headline">
                                                     <h3>Tandre Flop</h3>
-                                                    <span>CEO, Squaround</span>
+                                                    <span>CEO, Cluatech</span>
                                                 </div>
                                             </div>
                                         </div>

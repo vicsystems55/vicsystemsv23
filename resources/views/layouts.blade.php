@@ -59,7 +59,7 @@
 							</div>
 							<div class="inner-text">
 								<span>Give us a call</span>
-								<a href="#">+92 123 456 7890</a>
+								<a href="#">+234 803 783 5670</a>
 							</div>
 						</div>
 						<div class="bi-footer-cta-social ul-li">
