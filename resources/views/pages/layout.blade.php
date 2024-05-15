@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from html.themexriver.com/Haptic-Html/service.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 20 Oct 2023 10:56:22 GMT -->
 <head>
 	<meta charset="UTF-8">
 	<title>{{$pageTitle}} - {{$subTitle}}</title>
