@@ -358,7 +358,6 @@
 					</div>
 				</div>
 				<div class="bi-btn-4 text-center text-uppercase">
-					<a href="portfolio">view More <span class="d-flex justify-content-center align-items-center"><img src="assets/img/icon/arrow.svg" alt=""></span></a>
 				</div>
 			</div>
 		</div>

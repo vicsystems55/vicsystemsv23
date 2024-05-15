@@ -194,7 +194,7 @@
 		<div class="bi-footer-widget-content">
 			<div class="container">
 				<div class="row">
-					<div class="col-lg-5">
+					<div class="col-lg-6">
 						<div class="bi-footer-widget headline pera-content ul-li-block">
 							<div class="about-widget">
 								<h3>Working Together
@@ -205,7 +205,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-2">
+					<div class="col-lg-6">
 						<div class="bi-footer-widget headline pera-content ul-li-block">
 							<div class="menu-widget">
 								<h3 class="widget-title">UI Design</h3>
@@ -220,7 +220,7 @@
 							</div>
 						</div>
 					</div>
-					
+
 
 				</div>
 			</div>
