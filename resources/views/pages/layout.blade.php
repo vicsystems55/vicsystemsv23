@@ -252,7 +252,7 @@
 			</div>
 		</div>
 		<div class="bi-footer-copyright text-center">
-			Copyright 2023 @webagency
+			Copyright 2024
 		</div>
 	</footer>
 <!-- End of Footer  section
