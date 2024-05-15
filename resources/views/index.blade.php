@@ -253,9 +253,9 @@
 								<div class="portfolio-text headline">
 									<h3><a href="https://echooling-react.vercel.app">Educational Websites</a></h3>
 									<div class="portfolio-category">
-										<a href="portfolio.html">UI Design</a>
-										<a href="portfolio.html">UX Design</a>
-										<a href="portfolio.html">Website Design</a>
+										<a href="portfolio">UI Design</a>
+										<a href="portfolio">UX Design</a>
+										<a href="portfolio">Website Design</a>
 									</div>
 								</div>
 							</div>
@@ -264,11 +264,11 @@
 									<img src="assets/img/project/pro2.png" alt="">
 								</div>
 								<div class="portfolio-text headline">
-									<h3><a href="portfolio-single.html">Banking Landing Page Design</a></h3>
+									<h3><a href="portfolio-single">Banking Landing Page Design</a></h3>
 									<div class="portfolio-category">
-										<a href="portfolio.html">UI Design</a>
-										<a href="portfolio.html">UX Design</a>
-										<a href="portfolio.html">Website Design</a>
+										<a href="portfolio">UI Design</a>
+										<a href="portfolio">UX Design</a>
+										<a href="portfolio">Website Design</a>
 									</div>
 								</div>
 							</div>
@@ -277,11 +277,11 @@
 									<img src="assets/img/project/pro3.png" alt="">
 								</div>
 								<div class="portfolio-text headline">
-									<h3><a href="portfolio-single.html">Travel Website Design</a></h3>
+									<h3><a href="portfolio-single">Travel Website Design</a></h3>
 									<div class="portfolio-category">
-										<a href="portfolio.html">UI Design</a>
-										<a href="portfolio.html">UX Design</a>
-										<a href="portfolio.html">Website Design</a>
+										<a href="portfolio">UI Design</a>
+										<a href="portfolio">UX Design</a>
+										<a href="portfolio">Website Design</a>
 									</div>
 								</div>
 							</div>
@@ -290,11 +290,11 @@
 									<img src="assets/img/project/pro4.png" alt="">
 								</div>
 								<div class="portfolio-text headline">
-									<h3><a href="portfolio-single.html">Mobile Application Design</a></h3>
+									<h3><a href="portfolio-single">Mobile Application Design</a></h3>
 									<div class="portfolio-category">
-										<a href="portfolio.html">UI Design</a>
-										<a href="portfolio.html">UX Design</a>
-										<a href="portfolio.html">Website Design</a>
+										<a href="portfolio">UI Design</a>
+										<a href="portfolio">UX Design</a>
+										<a href="portfolio">Website Design</a>
 									</div>
 								</div>
 							</div>
@@ -307,11 +307,11 @@
 									<img src="assets/img/project/pro5.png" alt="">
 								</div>
 								<div class="portfolio-text headline">
-									<h3><a href="portfolio-single.html">AI Chatting Website Design</a></h3>
+									<h3><a href="portfolio-single">AI Chatting Website Design</a></h3>
 									<div class="portfolio-category">
-										<a href="portfolio.html">UI Design</a>
-										<a href="portfolio.html">UX Design</a>
-										<a href="portfolio.html">Website Design</a>
+										<a href="portfolio">UI Design</a>
+										<a href="portfolio">UX Design</a>
+										<a href="portfolio">Website Design</a>
 									</div>
 								</div>
 							</div>
@@ -320,11 +320,11 @@
 									<img src="assets/img/project/pro6.png" alt="">
 								</div>
 								<div class="portfolio-text headline">
-									<h3><a href="portfolio-single.html">Mobile Application Design</a></h3>
+									<h3><a href="portfolio-single">Mobile Application Design</a></h3>
 									<div class="portfolio-category">
-										<a href="portfolio.html">UI Design</a>
-										<a href="portfolio.html">UX Design</a>
-										<a href="portfolio.html">Website Design</a>
+										<a href="portfolio">UI Design</a>
+										<a href="portfolio">UX Design</a>
+										<a href="portfolio">Website Design</a>
 									</div>
 								</div>
 							</div>
@@ -333,11 +333,11 @@
 									<img src="assets/img/project/pro7.png" alt="">
 								</div>
 								<div class="portfolio-text headline">
-									<h3><a href="portfolio-single.html">Simple Phone Anaylytics UI</a></h3>
+									<h3><a href="portfolio-single">Simple Phone Anaylytics UI</a></h3>
 									<div class="portfolio-category">
-										<a href="portfolio.html">UI Design</a>
-										<a href="portfolio.html">UX Design</a>
-										<a href="portfolio.html">Website Design</a>
+										<a href="portfolio">UI Design</a>
+										<a href="portfolio">UX Design</a>
+										<a href="portfolio">Website Design</a>
 									</div>
 								</div>
 							</div>
@@ -346,11 +346,11 @@
 									<img src="assets/img/project/pro8.png" alt="">
 								</div>
 								<div class="portfolio-text headline">
-									<h3><a href="print.min.html">Task Management Apps Design</a></h3>
+									<h3><a href="print.min">Task Management Apps Design</a></h3>
 									<div class="portfolio-category">
-										<a href="portfolio.html">UI Design</a>
-										<a href="portfolio.html">UX Design</a>
-										<a href="portfolio.html">Website Design</a>
+										<a href="portfolio">UI Design</a>
+										<a href="portfolio">UX Design</a>
+										<a href="portfolio">Website Design</a>
 									</div>
 								</div>
 							</div>
@@ -358,7 +358,7 @@
 					</div>
 				</div>
 				<div class="bi-btn-4 text-center text-uppercase">
-					<a href="portfolio.html">view More <span class="d-flex justify-content-center align-items-center"><img src="assets/img/icon/arrow.svg" alt=""></span></a>
+					<a href="portfolio">view More <span class="d-flex justify-content-center align-items-center"><img src="assets/img/icon/arrow.svg" alt=""></span></a>
 				</div>
 			</div>
 		</div>
