@@ -408,38 +408,12 @@
                     </div>
                 </div>
                 <div class="bi-about-video-play-area position-relative">
-                    <div class="bi-about-exp-area position-absolute headline text-center wow zoomIn"  data-wow-delay="500ms" data-wow-duration="1500ms" data-background="assets/img/bg/exp-bg.png">
+                    {{-- <div class="bi-about-exp-area position-absolute headline text-center wow zoomIn"  data-wow-delay="500ms" data-wow-duration="1500ms" data-background="assets/img/bg/exp-bg.png">
                         <h3>20</h3>
                         <span>Year Of Working
                         Experiance</span>
-                    </div>
-                    <div class="row">
-                        <div class="col-lg-6">
-                            <div class="bi-about-video-play position-relative  bi-img-animation">
-                                <div class="video-play-btn position-absolute">
-                                    <a class="video_box justify-content-center  align-items-center d-flex" href="https://www.youtube.com/watch?v=Nv7RgGpu6ME"><i class="fas fa-play"></i></a>
-                                    <span class="video_btn_border border_wrap-1"></span>
-                                    <span class="video_btn_border border_wrap-2"></span>
-                                    <span class="video_btn_border border_wrap-3"></span>
-                                </div>
-                                <div class="video-play-img">
-                                    <img src="{{asset('/')}}assets/img/about/ab6.jpg" alt="">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-6">
-                            <div class="bi-about-text-quote-area bins-text headline pera-content">
-                                <p>“Collaborating with VicSystems is consistently invigorating; their creativity is boundless, continually motivating us to reach our envisioned objectives. Mr. Victor, an innovator at heart, consistently endeavors to explore new horizons of creativity” </p>
-                                <div class="quote-author text-uppercase wow fadeInUp"  data-wow-delay="300ms" data-wow-duration="1500ms">
-                                    <h3>Kristin Watson</h3>
-                                    <span>CEO OF (ZLITEMES)</span>
-                                </div>
-                                <div class="bi-btn-3 text-uppercase wow fadeInUp"  data-wow-delay="400ms" data-wow-duration="1500ms">
-                                    <a href="about">Learn More <img src="{{asset('/')}}assets/img/icon/arrow.svg" alt=""></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                    </div> --}}
+
                 </div>
             </div>
         </section>
@@ -646,7 +620,7 @@
 
     <!-- Start of team section
         ============================================= -->
-        <section id="bi-team-2" class="bi-team-section-2 position-relative">
+        <section id="bi-team-2" class="d-none bi-team-section-2 position-relative">
             <span class="bi-side-shape shape_1 position-absolute"><img src="{{asset('/')}}assets/img/bg/shape_7.png" alt=""></span>
             <div class="container">
                 <div class="bi-section-title-2 text-center  headline">

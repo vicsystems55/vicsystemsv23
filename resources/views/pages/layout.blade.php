@@ -220,35 +220,8 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-3">
-						<div class="bi-footer-widget headline pera-content ul-li-block">
-							<div class="menu-widget">
-								<h3 class="widget-title">Development</h3>
-								<ul>
-									<li><a href="#">Front End (HTML, CSS, React)</a></li>
-									<li><a href="#">Backend (Node.js, MongoDB)</a></li>
-									<li><a href="#">iOS (Swift)</a></li>
-									<li><a href="#">Android (Kotlin, Flutter)</a></li>
-									<li><a href="#">Post Delivery Support</a></li>
-								</ul>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-2">
-						<div class="bi-footer-widget headline pera-content ul-li-block">
-							<div class="menu-widget">
-								<h3 class="widget-title">UI Design</h3>
-								<ul>
-									<li><a href="#">Define Idea</a></li>
-									<li><a href="#">Target Audience</a></li>
-									<li><a href="#">Idea Validation</a></li>
-									<li><a href="#">Customer Value </a></li>
-									<li><a href="#">Build MVP Version</a></li>
-									<li><a href="#">Competitor Reserach</a></li>
-								</ul>
-							</div>
-						</div>
-					</div>
+					
+
 				</div>
 			</div>
 		</div>
@@ -256,8 +229,8 @@
 			<div class="container">
 				<div class="bi-footer-social-content ul-li">
 					<ul>
-						<li><a href="#"><i class="fal fa-basketball-ball"></i> Dribbble </a></li>
-						<li><a href="#"><i class="fab fa-behance-square"></i>  Behance  </a></li>
+
+
 						<li><a href="#"><i class="fab fa-linkedin-in"></i> Linked In    </a></li>
 						<li><a href="#"><i class="fab fa-facebook-f"></i> Facebook  </a></li>
 						<li><a href="#"><i class="fab fa-instagram"></i> Instagram  </a></li>
@@ -273,7 +246,7 @@
 						<a href="#"><img src="{{asset('/')}}assets/img/logo/logo2.png" alt=""></a>
 					</div>
 					<div class="logo-mail text-center headline">
-						<h3><a href="#">email@webs.com</a></h3>
+						<h3><a href="#">support@vicsystems.us</a></h3>
 					</div>
 				</div>
 			</div>

@@ -87,14 +87,14 @@
 		<div class="bi-footer-widget-content-2">
 			<div class="container">
 				<div class="row">
-					<div class="col-lg-3">
+					<div class="col-lg-6">
 						<div class="bi-footer-widget-2">
 							<div class="logo-widget">
 								<div class="brand-logo">
 									<a href="#"><img src="{{asset('/')}}assets/img/logo/logo2.png" alt=""></a>
 								</div>
 								<div class="logo-info">
-									Improve efficiency, provide a better  experience with modern Technolo services available
+									Improve efficiency, providing a better  experience with modern Technological tools
 								</div>
 								<div class="sponsor-logo">
 									<img src="{{asset('/')}}assets/img/logo/sp-logo.png" alt="">
@@ -102,7 +102,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-3">
+					<div class="col-lg-6">
 						<div class="bi-footer-widget-2 headline ul-li-block">
 							<div class="menu-widget">
 								<h3 class="widget-title">Resources</h3>
@@ -115,32 +115,8 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-3">
-						<div class="bi-footer-widget-2 headline ul-li-block">
-							<div class="menu-widget">
-								<h3 class="widget-title">Company</h3>
-								<ul>
-									<li><a href="#">Blog</a></li>
-									<li><a href="#">Developers</a></li>
-									<li><a href="#">Our Story</a></li>
-									<li><a href="#">Career</a></li>
-								</ul>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-3">
-						<div class="bi-footer-widget-2 headline ul-li-block">
-							<div class="menu-widget">
-								<h3 class="widget-title">Help Pages</h3>
-								<ul>
-									<li><a href="#">Customer </a></li>
-									<li><a href="#">Press Info</a></li>
-									<li><a href="#">Blog</a></li>
-									<li><a href="#">Career</a></li>
-								</ul>
-							</div>
-						</div>
-					</div>
+
+
 				</div>
 			</div>
 		</div>
