@@ -14,16 +14,16 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+// Route::get('/', function () {
+//     return view('welcome');
+// });
 
 
-Route::get('/index', [PageController::class, 'index']);
+Route::get('/', [PageController::class, 'index']);
 
 Route::get('/about-us', [PageController::class, 'about_us'])->name('about-us');
 
-Route::get('/contact-us', [PageController::class, 'index'])->name('contact-us');
+Route::get('/contact-us', [PageController::class, 'contact_us'])->name('contact-us');
 
 Route::get('/services', [PageController::class, 'services'])->name('services');
 

@@ -58,7 +58,7 @@
                     </div>
                     <nav class="mobile-main-navigation  clearfix ul-li">
                         <ul id="m-main-nav" class="nav navbar-nav clearfix">
-                            <li class="nav-item"><a class="nav-link {{request()->is('/')?'active':''}}" href="/index">Home</a></li>
+                            <li class="nav-item"><a class="nav-link {{request()->is('/')?'active':''}}" href="/">Home</a></li>
                             <li class="nav-item"><a class="nav-link {{request()->is('about-us')?'active':''}}" href="/about-us">About Us</a></li>
                             <li class="nav-item"><a class="nav-link {{request()->is('services')?'active':''}}" href="/services">Services</a></li>
                             <li class="nav-item"><a class="nav-link {{request()->is('portfolio')?'active':''}}" href="/portfolio">Portfolio</a></li>
